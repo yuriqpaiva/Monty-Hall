@@ -1,6 +1,6 @@
 # Monty Hall - Jogo das Portas
 
-Projeto Front-End feito em React utilizando Typescript
+Projeto Front-End feito em React - NextJS utilizando Typescript
 
 # Como funciona?
 
